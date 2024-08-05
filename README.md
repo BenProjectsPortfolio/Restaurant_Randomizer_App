@@ -1,5 +1,5 @@
 # Watueat  
-An application that randomly selects places to eat based on location. Share, comment, and save favorites with other users around the area.
+An application that randomly selects places to eat based on location. Save favorites, share, and comment on restaurants with other users around the area.
 
 APIs: GoogleMaps and Yelp  
 Third-Party Libraries: Retrofit w/ Gson  
