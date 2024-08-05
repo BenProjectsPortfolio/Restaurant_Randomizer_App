@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525266353687",
+    "project_id": "watueat-fdc86",
+    "storage_bucket": "watueat-fdc86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525266353687:android:a6829603fe8bdd9da5a652",
+        "android_client_info": {
+          "package_name": "com.example.watueat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACp8BTvyendjdHAIfP93z-TeQImeW0Ezg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
